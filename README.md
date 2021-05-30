@@ -12,7 +12,7 @@ Open a terminal from where the project will be placed.
 git clone https://github.com/MakarovaIV/k_vrachu_tests.git
 
 cd k_vrachu_tests
-mvn test
+mvn clean install
 ```
 NOTE: Project runs with **Maven** 3.8.1+.
 
